@@ -1,8 +1,6 @@
-<div align="center">
 
 # Hi there! 👋
 
-</div>
 
 I'm a full-stack and backend developer. 
 
@@ -27,5 +25,5 @@ So when my projects call for it, I also dabble in AI/ML, Data Science, and Cyber
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([#](https://www.linkedin.com/in/bhavesh-elangovan/)) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)]([#](https://graymiracle.github.io/Portfolio)) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bhavesh07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-elangovan/) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://graymiracle.github.io/Portfolio) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bhavesh07@gmail.com)
 </div>
