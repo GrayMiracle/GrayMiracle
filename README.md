@@ -23,8 +23,6 @@ So when my projects call for it, I also dabble in AI/ML, Data Science, and Cyber
 - Water is the best drink
 - Love touching grass
 
----
-
 <div align="center">
 
 ---
