@@ -1,7 +1,6 @@
-<div align="center">
-  
+
 # Hi there! 👋
-</div>
+
 
 I'm a full-stack and backend developer. 
 
