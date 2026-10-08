@@ -10,7 +10,7 @@ If it sounds like it would be helpful, I try to make it.
 
 I also try to make clean, optimized, and scalable systems.
 
-Which also led to the creation of my evergreen channel that hit 1M+ longform views, which I mostly attribute to overengineering the production workflow.
+Which also led to the creation of my evergreen channel that hit 2M+ longform views, which I mostly attribute to overengineering the production workflow.
 
 But it mostly involves making my hobbies or life easier.
 
