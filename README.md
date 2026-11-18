@@ -2,19 +2,19 @@
 # Hi there! 👋
 
 
-I'm mostly a full-stack and backend developer. 
+I'm mostly a full-stack, backend, and systems developer. 
 
 All the programs I build are those that help me out.
 
 If it sounds like it would be helpful, I try to make it. 
 
-I also try to make secure, clean, optimized, and scalable systems.
+I also (try to) make secure, clean, optimized, and scalable systems.
 
 Which also led to the creation of my evergreen channel that hit 2M+ longform views, which I attribute to my specialized production workflow I engineered (~40% less work!).
 
 But it mostly involves making my hobbies or life easier.
 
-So when my projects call for it, I also dabble in fields like AI/ML, Data Science, and Cybersecurity.
+So when my projects call for it, I also work with AI/ML, Data Science, and Cybersecurity.
 
 **About me:**
 - I like Martial Arts, Reading, Chess, and Pokemon
